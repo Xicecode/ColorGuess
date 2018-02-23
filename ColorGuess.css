@@ -58,6 +58,7 @@ button {
   color: steelblue;
   letter-spacing: 1px;
   font-size: inherit;
+  outline: none; /*Remove small outline around buttons*/
   transition: all 0.3s; /*Anytime any property change on any buttons, it should take x seconds.*/
   -webkit-transition: all 0.3s; /* Broswer compatibility*/
   -moz-transition: all 0.3s; /* Broswer compatibility*/
